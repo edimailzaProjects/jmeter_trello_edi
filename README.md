@@ -1,2 +1,4 @@
 # jmeter_trello_edi
-Plano de testes de performance
+Planos de testes de performance.
+Em Abril de 2020;
+Em Agosto de 2020.
